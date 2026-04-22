@@ -499,6 +499,7 @@ progress
 	{
 	   display: grid;
 	   grid-template-columns: repeat(2, 1fr);
+	   height: auto;
 	}
    .sec-6-content img
    {
